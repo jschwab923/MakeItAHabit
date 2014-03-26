@@ -112,9 +112,9 @@
 		AEB1DAF018E39AEE0055A21B /* Make It a Habit */ = {
 			isa = PBXGroup;
 			children = (
+				AEB1DAFC18E39AEE0055A21B /* Main.storyboard */,
 				AEB1DAF918E39AEE0055A21B /* JWCAppDelegate.h */,
 				AEB1DAFA18E39AEE0055A21B /* JWCAppDelegate.m */,
-				AEB1DAFC18E39AEE0055A21B /* Main.storyboard */,
 				AEB1DAFF18E39AEE0055A21B /* JWCViewController.h */,
 				AEB1DB0018E39AEE0055A21B /* JWCViewController.m */,
 				AEB1DB0218E39AEE0055A21B /* Images.xcassets */,
@@ -457,6 +457,7 @@
 				AEB1DB1B18E39AEE0055A21B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AEB1DB1C18E39AEE0055A21B /* Build configuration list for PBXNativeTarget "Make It a HabitTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				AEB1DB1E18E39AEE0055A21B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
